@@ -14,12 +14,6 @@ The following **required** functionality is completed:
 - [X] User stays logged in across restarts. (1pt)
 - [X] User can view tweets with the user profile picture, username, and tweet text. (6pts)
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 # Twitter - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
@@ -38,4 +32,4 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='TwitterDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
