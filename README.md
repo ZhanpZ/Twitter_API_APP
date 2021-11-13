@@ -33,3 +33,5 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src='TwitterDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='Screen Shot 2021-11-12 at 7.40.01 PM.png' title='Like/Retweet' width='' alt='Like/Retweet' />
